@@ -1,1 +1,1 @@
-# InternPAge
+# InternPage
